@@ -9609,9 +9609,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\core-forms-validation.csproj",
-      "projectName": "core-forms-validation",
-      "projectPath": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\core-forms-validation.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\CoreFormsValidation.csproj",
+      "projectName": "CoreFormsValidation",
+      "projectPath": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\CoreFormsValidation.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\obj\\",
       "projectStyle": "PackageReference",

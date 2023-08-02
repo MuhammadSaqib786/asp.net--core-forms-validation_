@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\core-forms-validation.bundle.scp.css",
-      "PackagePath": "staticwebassets\\core-forms-validation.bundle.scp.css"
+      "Id": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoreFormsValidation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CoreFormsValidation.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.core-forms-validation.props",
-      "PackagePath": "build\\core-forms-validation.props"
-    },
-    {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.core-forms-validation.props",
-      "PackagePath": "buildMultiTargeting\\core-forms-validation.props"
-    },
-    {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.core-forms-validation.props",
-      "PackagePath": "buildTransitive\\core-forms-validation.props"
-    },
-    {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.core-forms-validation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CoreFormsValidation.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CoreFormsValidation.props",
+      "PackagePath": "build\\CoreFormsValidation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreFormsValidation.props",
+      "PackagePath": "buildMultiTargeting\\CoreFormsValidation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CoreFormsValidation.props",
+      "PackagePath": "buildTransitive\\CoreFormsValidation.props"
     }
   ],
   "ElementsToRemove": []

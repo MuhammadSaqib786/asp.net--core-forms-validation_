@@ -1,0 +1,22 @@
+﻿@model core_forms_validation.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "StronglyTypedLogin";
+}
+
+<h1>StronglyTypedLogin</h1>
+
+@using (Html.BeginForm("LoginSuccess","Account",FormMethod.Post))
+{
+
+    <div>
+        Username : @Html.TextBoxFor(m =>  m.Username)
+    </div>
+    <div>
+        Password : @Html.PasswordFor(m =>  m.Password)
+    </div>
+
+    <div>
+        <input type="submit" value="Login" />
+</div>
+}

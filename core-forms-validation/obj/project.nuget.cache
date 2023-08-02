@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "os8VHkd02msE/pXTAV9IHV2kCtrceT2+jOfSJrHd0A+k4AEbZYdY+/7fYiYn+hAVfU8XLoVlwhwHMnvvLkVyYw==",
+  "dgSpecHash": "boxFqi9/BjBCnzWXlWSJeitp5l+uXLGp236aP4JEv+nhiAJa2RXV82EONQGqyucqheN2K8UK402CLzmzfVDgWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\core-forms-validation.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\core-forms-validation\\core-forms-validation\\CoreFormsValidation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
