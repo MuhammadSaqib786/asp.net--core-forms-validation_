@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "WeeklyTypedLogin";
+}
+
+<h1>WeeklyTypedLogin</h1>
+
+@using(Html.BeginForm("LoginPost","AccountController",FormMethod.Post))
+{
+    <div>
+        Username : @Html.TextBox("Username")
+    </div>
+    <div>
+        Password : @Html.Password("Password")
+    </div>
+    <div>
+        <input type="submit" value="Login" />
+    </div>
+}
+

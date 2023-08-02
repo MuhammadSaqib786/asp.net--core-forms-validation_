@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\core-forms-validation.props" />
+</Project>
