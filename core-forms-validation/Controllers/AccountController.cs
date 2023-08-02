@@ -32,5 +32,16 @@ namespace core_forms_validation.Controllers
 
             return View();
         }
+
+        public IActionResult UserDetail()
+        {
+            var user = new LoginViewModel()
+            {
+                Username = "Saqib",
+                Password = "12345"
+            };
+
+            return View(user);
+        }
     }
 }
