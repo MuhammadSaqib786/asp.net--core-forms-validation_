@@ -1,0 +1,27 @@
+﻿@model IList<core_forms_validation.Models.LoginViewModel>
+
+@{
+    ViewData["Title"] = "UserList";
+}
+
+<h1>List of users</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Password</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+          <tr>
+              <td>@user.Username</td>
+              <td>@user.Password</td>
+          </tr>  
+        }
+    </tbody>
+</table>
+
+
