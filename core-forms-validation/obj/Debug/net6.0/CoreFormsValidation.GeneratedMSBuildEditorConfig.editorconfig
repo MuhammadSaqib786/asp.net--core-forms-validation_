@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\User\source\repos\core-forms-validation\core-forms-validation
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/User/source/repos/core-forms-validation/core-forms-validation/Views/Account/GetAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxHZXRBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/User/source/repos/core-forms-validation/core-forms-validation/Views/Account/LoginPost.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpblBvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/User/source/repos/core-forms-validation/core-forms-validation/Views/Account/StronglyTypedLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdHJvbmdseVR5cGVkTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/core-forms-validation/core-forms-validation/Views/Account/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User/source/repos/core-forms-validation/core-forms-validation/Views/Account/UserDetail.cshtml]

@@ -54,5 +54,21 @@ namespace core_forms_validation.Controllers
 
             return View(users);
         }
+
+        public IActionResult GetAccount()
+        {
+
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult PostAccount(Account account)
+        {
+            if(ModelState.IsValid) //if validation success
+            {
+                return View("Success");
+            }
+            return RedirectToAction("GetAccount");
+        }
     }
 }
